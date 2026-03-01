@@ -2,7 +2,7 @@
 
 I am **Emil**, a software enthusiast, mainly interested in **web, mobile, and machine learning**. 💻
 
-
+Latest personal project:
  <img src="./sleekweather.png" width="500" height="300"  alt="SleekWeather">
 
 ---
